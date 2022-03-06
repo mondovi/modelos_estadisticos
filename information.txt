@@ -1,3 +1,2 @@
-El dataframe cheddar consiste de 30 muestras de queso cheddar en las
-   que se ha medido el sabor (Taste) y las concentraciones de
+El dataframe cheddar consiste de 30 muestras de queso cheddar en las que se ha medido el sabor (Taste) y las concentraciones de
    ácido acético (Acetic), ácido sulfhídrico (H2S) y lactosa (Lactose).
